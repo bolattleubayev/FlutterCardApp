@@ -14,9 +14,9 @@ This is a simple Flutter App that utilizes several concepts:
 * Text Widgets
 
 <p>
-  <img src="images/scrsht.png" width="500" />
+  <img src="images/scrsht.png" width="200" />
 </p>
 
-## What you will create
+## Credits
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
